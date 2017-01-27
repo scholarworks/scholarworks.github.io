@@ -1,0 +1,19 @@
+# COLD Presentation Outline
+*February 10, 2017 - 10:00am - California State University, San Marcos*
+
+## HISTORY
+## GROWTH, FUTURE & COSTS
+### Space & Storage
+### Performance
+### Archive
+## TIMELINE
+### Progress to this point
+### Sandbox Timeline
+### Deployment Timeline
+## Demos
+### Working "out-of-the-box" IR w/ some content
+### An Image Repository
+### Statistics Dashboard
+## System needs & Governance
+### Local Staffing
+### Metadata Best Practices
