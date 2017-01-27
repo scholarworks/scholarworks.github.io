@@ -2,10 +2,12 @@
 *February 10, 2017 - 10:00am - California State University, San Marcos*
 
 ## HISTORY
+### 2013 STIM Report
+### 2015 STIM Report & Survey
 ## GROWTH, FUTURE & COSTS
 ### Space & Storage
-### Performance
-### Archive
+### Performance & Scaling
+### Archive, Backup and Recovery
 ## TIMELINE
 ### Progress to this point
 ### Sandbox Timeline
