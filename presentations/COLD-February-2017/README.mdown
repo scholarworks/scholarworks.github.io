@@ -6,16 +6,40 @@
 ### 2015 STIM Report & Survey
 ## GROWTH, FUTURE & COSTS
 ### Space & Storage
+1. What challenges face us today?
+2. What will it cost to approach those challenges without a migration
+3. How will we greatly improve our position in the face of that challenge by moving to the cloud
 ### Performance & Scaling
+1. Why is our current performance unsustainable?
+2. What amazing things does the cloud offer us?
+3. How will we leverage the cloud to address #1.
 ### Archive, Backup and Recovery
+1. How does out current growth projection limit our recovery options
+2. How does the cloud provide us with a sustainable archival strategy
+3. .... Profit?
 ## TIMELINE
 ### Progress to this point
+1. Migration & Feature development
+2. Data transition timeline
+3. ... Profit?
 ### Sandbox Timeline
 ### Deployment Timeline
 ## Demos
 ### Working "out-of-the-box" IR w/ some content
+1. Bravado demo repository
+2. Campus dev repositories
 ### An Image Repository
+1. TODO: Comparing a current CONTENTdm System
+### Author / Faculty / Profile Records
+1. TODO
+### Geospatial Repository
+1. TODO: Comparing a map repository (possibly malt in fresno)
 ### Statistics Dashboard
+1. TODO: Import more data
 ## System needs & Governance
+1. More involvement in the ScholarWorks group - Proposal to expand the planning group
 ### Local Staffing
+1. Expectation of local SW members to be liaisons for repository use and needs per campus
 ### Metadata Best Practices
+1. Coordinate with ULMS discovery group on metadata needs
+2. Metadata cleanup project to coordinate data normalization
