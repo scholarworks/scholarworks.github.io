@@ -5,6 +5,7 @@
 ### 2013 STIM Report
 ### 2015 STIM Report & Survey
 ## GROWTH, FUTURE & COSTS
+***
 ### Space & Storage
 1. What challenges face us today?
 
@@ -23,9 +24,30 @@ Notably:
 **Slide Image**
 
 (http://media.istockphoto.com/photos/loading-new-year-2017-on-chalkboard-background-picture-id622300962)
-
+***
 2. What will it cost to approach those challenges without a migration
+
+**Narrative:**
+```
+- In many ways, not migrating is not an option.
+- The CO data center is downsizing away from supporting data heavy services.
+- Acquisition of sufficient storage appliances for both today and future growth planning represents a significant financial investment on the front end.
+```
+**Slide Image**
+
+(http://media.istockphoto.com/photos/finance-conceptual-idea-light-bulb-and-gear-working-on-blackboard-picture-id486455172)
+***
 3. How will we greatly improve our position in the face of that challenge by moving to the cloud
+
+**Narrative:**
+
+```
+- Moving to the cloud offloads the financial investment required for growth to when it's needed.
+```
+
+**Slide Image**
+
+(http://media.istockphoto.com/photos/old-way-new-way-on-blackboard-picture-id497127816)
 
 ### Performance & Scaling
 1. Why is our current performance unsustainable?
