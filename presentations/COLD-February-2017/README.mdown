@@ -69,10 +69,24 @@ to cost optimiize our services against usage. Not only is storage scalability po
 it's resource scalable, a vast improvement in the way systems are managed. But not only that, it requires zero downtime and is automated.
 ```
 3. How will we leverage the cloud to address #1.
+**Narrative**
+```
+Distributing the discovery layer by campus (or even project) means that resource allocation can be fine tuned to individual needs. While centralizing the search index and archival repository services allows for a more robust disaster recovery strategy.
+```
 
 ### Archive, Backup and Recovery
 1. How does out current growth projection limit our recovery options
+**Narrative**
+```
+In a traditional server structure, a recovery mirror means duplicate costs. So any data integrity events require traditional tape backup recovery options which mean extended downtime. 
+```
 2. How does the cloud provide us with a sustainable archival strategy
+**Narrative**
+```
+While we do utilize glacier for long term storage of individual bitstream data, the index, system, etc are all backed up in the typical 
+methods provided by the data center. In the cloud, we can mirror every part of the system, to a different geographical region, in a standby mode 
+that both minimized cost and provides near zero-downtime recovery capacity.
+```
 3. .... Profit?
 
 ## TIMELINE
