@@ -7,11 +7,21 @@
 ## GROWTH, FUTURE & COSTS
 ### Space & Storage
 1. What challenges face us today?
+
 **Narrative:**
+
 ```
-**Something here**
+As we start into 2017 we fave several challenges within the scholarworks infrastructure.
+
+Notably: 
+
+- Storage is quickly becoming a liability
+- Our average growth rate is expanding
+
 ```
+
 **Slide Image**
+
 (http://media.istockphoto.com/photos/loading-new-year-2017-on-chalkboard-background-picture-id622300962)
 
 2. What will it cost to approach those challenges without a migration
