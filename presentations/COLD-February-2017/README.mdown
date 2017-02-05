@@ -7,8 +7,13 @@
 ## GROWTH, FUTURE & COSTS
 ### Space & Storage
 1. What challenges face us today?
-```Narrative:
-Something here```
+**Narrative:**
+```
+Something here
+```
+**Slide Image**
+(http://media.istockphoto.com/photos/loading-new-year-2017-on-chalkboard-background-picture-id622300962)
+
 2. What will it cost to approach those challenges without a migration
 3. How will we greatly improve our position in the face of that challenge by moving to the cloud
 
