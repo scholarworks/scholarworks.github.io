@@ -12,7 +12,7 @@
 **Narrative:**
 
 ```
-As we start into 2017 we fave several challenges within the scholarworks infrastructure.
+As we start into 2017 we face several challenges within the scholarworks infrastructure.
 
 Notably: 
 
@@ -51,8 +51,23 @@ Notably:
 
 ### Performance & Scaling
 1. Why is our current performance unsustainable?
-* Non distributed / scalable systems lead to eventual outages
+**Narrative**
+```
+- Not to get too technical, but the resourced intensive java stack requires a significant resource investment 
+even on a baseline, low-usage system.
+- Growth in data also means growth in usage. A shared, resource intense service means that we are forced to invest over
+and above the heaviest usage. This is often extreme over committment for lower usage services. While the static nature of the traditional
+server platform (often refered to as "bare metal") is vertically scalable, any maintenance requires significan downtime. Downlward 
+scalability during low times of usuage for both power can cost savings is impossible.
+
+```
 2. What amazing things does the cloud offer us?
+**Narrative**
+```
+The distributed nature of the cloud means that we can levarage any form of mobility across are systems in order
+to cost optimiize our services against usage. Not only is storage scalability possible (as it is in a bare metal environment)
+it's resource scalable, a vast improvement in the way systems are managed. But not only that, it requires zero downtime and is automated.
+```
 3. How will we leverage the cloud to address #1.
 
 ### Archive, Backup and Recovery
