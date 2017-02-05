@@ -9,7 +9,7 @@
 1. What challenges face us today?
 **Narrative:**
 ```
-Something here
+**Something here**
 ```
 **Slide Image**
 (http://media.istockphoto.com/photos/loading-new-year-2017-on-chalkboard-background-picture-id622300962)
