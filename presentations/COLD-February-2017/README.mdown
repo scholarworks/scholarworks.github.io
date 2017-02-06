@@ -97,6 +97,7 @@ that both minimized cost and provides near zero-downtime recovery capacity.
 ```
 So where are we? 1.) The data migration process has been developed and is ready. Now working through a no-write-pass-through to establish
 and local needs/issues.
+```
 1. Migration & Feature development
 2. Data transition timeline
 3. ... Profit?
