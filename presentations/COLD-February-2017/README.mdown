@@ -114,12 +114,14 @@ that both minimized cost and provides near zero-downtime recovery capacity.
 
 ### Geospatial Repository
 1. TODO: Comparing a map repository (possibly malt in fresno)
+[GeoBlacklight](http://geoblacklight.desub2284d.us-east-1.elasticbeanstalk.com/)
 
 ### Statistics Dashboard
 1. TODO: Import more data
 
 ## System needs & Governance
 1. More involvement in the ScholarWorks group - Proposal to expand the planning group
+2. Dublin Core / Metadata Best Practices.
 
 ### Local Staffing
 1. Expectation of local SW members to be liaisons for repository use and needs per campus
