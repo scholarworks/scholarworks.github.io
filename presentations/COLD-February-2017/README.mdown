@@ -92,6 +92,11 @@ that both minimized cost and provides near zero-downtime recovery capacity.
 ## TIMELINE
 
 ### Progress to this point
+
+**Narrative**
+```
+So where are we? 1.) The data migration process has been developed and is ready. Now working through a no-write-pass-through to establish
+and local needs/issues.
 1. Migration & Feature development
 2. Data transition timeline
 3. ... Profit?
@@ -129,3 +134,9 @@ that both minimized cost and provides near zero-downtime recovery capacity.
 ### Metadata Best Practices
 1. Coordinate with ULMS discovery group on metadata needs
 2. Metadata cleanup project to coordinate data normalization
+```
+One of the issues with the current metadata framework is that ANY registered metadata field is possible to be added
+to an item through manual editing. This means we're unable to normalize by type/collection/etc, and has led to exacerbation
+of single use fields (55). Of our 135 Unique metadata fields, That's 40% of the fields in the current repository that are only 
+used by one campus. But only represents 2% of actual metadata. 
+```
